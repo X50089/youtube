@@ -1,0 +1,28 @@
+<style>
+  p {
+    text-align: center;
+    margin-bottom: 0;
+    margin-top:0;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+ .First-text{
+  font-weight: bold;
+  line-height: 34px;
+  font-size: 28px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+ }
+
+.Second-text{
+font-size: 16px;
+margin-bottom: 20px;
+}
+
+.Third-text{
+font-size: 16px;
+color: rgb(58, 108, 199);
+cursor:pointer;
+}
+</style>
